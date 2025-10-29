@@ -2,7 +2,7 @@
 <h1>🪐 Alice's Corner 🪐<br/>
 <sub> Welcome to my little corner in the big world of GitHub 🤖</sub>
 </h1>
-<img src="https://github.com/a-bakhtine/a-bakhtine/blob/main/alice_animation.gif?raw=truealice_animation.gif" width=300 height = 300/>
+<img src="https://github.com/a-bakhtine/a-bakhtine/blob/main/alice_animation.gif?raw=truealice_animation.gif" width=50% height = 50%/>
 
 <p>My favourite quote right now is <em>"so what?"</em><br/>Keeps me calm 🧘‍♀️</p>
 </div>
@@ -39,11 +39,11 @@
 <p>When I'm not coding you can probably find me...</p>
 <ol>
     <li>Hitting push at the gym! I'm on my way to doing 135lb on a bench press 💪</li>
-    <li>Eating a pb&j 🍞</li>
-    <li>Getting destroyed in brazillian jiu jitsu 🥋</li>
+    <li>Eating a pb&j -- a delightful snack 🍞</li>
+    <li>Sparring in brazillian jiu jitsu 🥋</li>
     <li>Whittling at the park 🪵</li>
     <li>Painting up a portrait 🎨</li>
-    <li>Practicing mathematical proofs 🤓</li>
+    <li>Learning different mathematical proofs (I've been deeply interested in graph theory recently!) 📊 </li>
 </ol>
 <br/>
 
