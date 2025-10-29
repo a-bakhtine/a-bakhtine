@@ -2,6 +2,7 @@
 <h1>🪐 Alice's Corner 🪐<br/>
 <sub> Welcome to my little corner in the big world of GitHub 🤖</sub>
 </h1>
+<img src="https://github.com/a-bakhtine/a-bakhtine/blob/main/alice_animation.gif?raw=truealice_animation.gif" width=100/>
 
 <p>My favourite quote right now is <em>"so what?"</em><br/>Keeps me calm 🧘‍♀️</p>
 </div>
@@ -33,6 +34,21 @@
     <img src="https://img.shields.io/badge/Windows-red?style=for-the-badge&logo=gitforwindows&logoColor=white&color=red"/>
 </div>
 
-<h2> 📧 Reach Me </h2>
-<ul>LinkedIn: https://www.linkedin.com/in/alice-bakhtine-818633208/
 
+<h2> 🤓 More Fun Facts </h2>
+<p>When I'm not coding you can probably find me...</p>
+<ol>
+    <li>Hitting push at the gym! I'm on my way to doing 135lb on a bench press 💪</li>
+    <li>Eating a pb&j 🍞</li>
+    <li>Getting destroyed in brazillian jiu jitsu 🥋</li>
+    <li>Whittling at the park 🪵</li>
+    <li>Painting up a portrait 🎨</li>
+    <li>Practicing mathematical proofs 🤓</li>
+</ol>
+<br/>
+
+
+<h2> 📧 Reach Out</h2>
+<p> Thank you for stopping by, I always love to chat so feel free to message or follow me!</p>
+<p>LinkedIn: <a href="www.linkedin.com/in/alicebakhtine">www.linkedin.com/in/alicebakhtine</a></p>
+<p>Personal Website: ... UNDER CONSTRUCTION ...</p>
