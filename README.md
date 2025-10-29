@@ -2,7 +2,7 @@
 <h1>🪐 Alice's Corner 🪐<br/>
 <sub> Welcome to my little corner in the big world of GitHub 🤖</sub>
 </h1>
-<img src="https://github.com/a-bakhtine/a-bakhtine/blob/main/alice_animation.gif?raw=truealice_animation.gif" width=50% height = 50%/>
+<img src="https://github.com/a-bakhtine/a-bakhtine/blob/main/alice_animation.gif?raw=truealice_animation.gif" width=20% height = 20%/>
 
 <p>My favourite quote right now is <em>"so what?"</em><br/>Keeps me calm 🧘‍♀️</p>
 </div>
