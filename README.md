@@ -50,8 +50,6 @@
     <li>Sparring in brazillian jiu jitsu 🥋</li>
     <li>Experimenting with new recipes in the kitchen 🧑‍🍳 </li>
 </ol>
-<br/>
-
 
 <h2>Reach Out</h2>
 <p> Thank you for stopping by, I always love to chat so feel free to message or follow me!</p>
