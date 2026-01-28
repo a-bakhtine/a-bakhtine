@@ -13,13 +13,13 @@
 <div>
     <h3>Languages<h3>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=coffeescript&logoColor=white&color=orange"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=coffeescript&logoColor=white&color=orange"/>
     <img src="https://img.shields.io/badge/Bash-%2334be5b?style=for-the-badge&logo=gnubash&logoColor=white&color=%2334be5b"/>
     <img src="https://img.shields.io/badge/MIPS%20Assembly-%23e75480?style=for-the-badge&logo=assemblyscript&logoColor=white&color=%23e75480"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/x86%20Assembly-gray?style=for-the-badge&logo=intel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OCaml-orange?style=for-the-badge&logo=ocaml&logoColor=white"/>
     </h3>
     <h3>Frameworks & Libraries</h3>
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/Scikit_Learn---?style=for-the-badge&logo=scikit-learn&logoColor=white&color=cadetblue">
     <img src="https://img.shields.io/badge/BeautifulSoup---?style=for-the-badge&logo=htmx&logoColor=white&color=olive">
     <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
     <h3>Tools </h3>
     <img src="https://img.shields.io/badge/PostGreSQL---?style=for-the-badge&logo=PostGreSQL&logoColor=white&color=indigo">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
