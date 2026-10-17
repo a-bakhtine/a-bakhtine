@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Alice's Corner<br/>
-<sub>~ Welcome to my little corner in the big world of GitHub ~</sub>
+<h1>Alice's Little Corner of the World<br/>
+<sub>~ Welcome! ~</sub>
 </h1>
 <img src="https://github.com/a-bakhtine/a-bakhtine/blob/main/alice_animation.gif?raw=truealice_animation.gif" width=15% height = 15%/>
 
